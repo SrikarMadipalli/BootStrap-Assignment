@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+html,
+body {
+    margin:0px;
+    padding: 0px;
+    height: auto;
+}
+ul {
+    
+    padding-left: 0px;
+    font-weight: bold;
+    color: #16425B;
+}
+li {
+    display: inline-block;
+    text-align: right;
+}
+a {
+    font-family: "Open Sans";
+    text-transform:uppercase;
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+}
+article {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 10px;
+}
+h1{
+    font-family:'Alex Brush', cursive;
+    font-weight:400; 
+    font-style:normal; 
+    font-size: 50px; 
+    text-align:center;
+    color: #1a1a1a; 
+    line-height: 65px;
+}
+h4{
+    font-family:'Alex Brush', cursive;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center; 
+}
+img {
+    max-width: 100%;
+}
+footer{
+    height: 10vh;
+    text-align: center;
+}
+footer a{
+    display: inline;
+    padding:10px 0;
+} 

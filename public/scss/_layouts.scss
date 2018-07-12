@@ -1,0 +1,11 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.story-section{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-left: 16%;
+}
